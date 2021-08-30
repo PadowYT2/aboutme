@@ -5,3 +5,6 @@
 
  # Remove .html from URL
  RewriteRule ^(.*)\.html /$1 [L,R=301,NC]
+
+ # 404 error redirects to 404.html
+ ErrorDocument 404 /404.html
