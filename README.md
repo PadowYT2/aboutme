@@ -1,3 +1,3 @@
-# This a page about me. Это страница обо мне. And my personal stuff. И мои личные вещи.
+# personal website
 
-[Оригинал](https://github.com/Fjuro/fjuro.github.io)
+[original](https://github.com/Fjuro/fjuro.github.io)
