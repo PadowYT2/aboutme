@@ -5,6 +5,3 @@ RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
 # Remove .html from URL
 RewriteRule ^(.*)\.html /$1 [L,R=301,NC]
-
-# Redirect /discord to Padoe Development
-Redirect 301 /discord https://discord.gg/XyuD3RbFCd
