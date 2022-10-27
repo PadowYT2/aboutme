@@ -1,1 +1,1 @@
-importScripts('https://arc.io/arc-sw-core.js')
+importScripts('https://arc.io/arc-sw-core.js');
