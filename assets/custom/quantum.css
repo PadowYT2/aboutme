@@ -46,6 +46,6 @@
     border-color: #991b1b
 }
 
-#quantum-alert > .prose :where(a):not(:where([class~="not-prose"] *)) {
+#quantum-alert > :where(a):not(:where([class~="not-prose"] *)) {
     text-decoration: none;
 }
