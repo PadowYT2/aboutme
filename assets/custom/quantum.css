@@ -1,29 +1,29 @@
 .text-quantum-700 {
-    color: #1d4ed8
+    color: #1f1f35
 }
 
 .bg-quantum-100 {
-    background-color: #dbeafe
+    background-color: #f3f4f6
 }
 
 .hover\:bg-quantum-200:hover {
-    background-color: #bfdbfe
+    background-color: #e5e7eb
 }
 
 :is(.dark .dark\:text-quantum-300) {
-    color: #93c5fd
+    color: #d1d5db
 }
 
 :is(.dark .dark\:bg-quantum-900) {
-    background-color: #1e3a8a
+    background-color: #11111d
 }
 
 :is(.dark .dark\:hover\:bg-quantum-800:hover) {
-    background-color: #1e40af
+    background-color: #161620
 }
 
 .bg-quantum-600 {
-    background-color: #2563eb
+    background-color: #161624
 }
 
 .me-3 {
