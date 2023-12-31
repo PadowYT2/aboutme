@@ -18,6 +18,10 @@
     background-color: #161620
 }
 
+:is(.dark .dark\:bg-quantum-600) {
+    background-color: #161624
+}
+
 .bg-quantum-400 {
     background-color: #161624
 }
@@ -44,8 +48,4 @@
 
 :is(.dark .dark\:border-red-800) {
     border-color: #991b1b
-}
-
-#quantum-alert > :where(a):not(:where([class~="not-prose"] *)) {
-    text-decoration: none;
 }
