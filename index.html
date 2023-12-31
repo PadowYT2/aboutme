@@ -157,7 +157,7 @@
         });
 
         function updateLanguage() {
-            $.getJSON(`assets/lang/${currentLang}.json`, function (data) {
+            $.getJSON(`/assets/lang/${currentLang}.json`, function (data) {
                 $(".lang").each(function () {
                     const key = $(this).data("key");
                     $(this).text(data[key]);
