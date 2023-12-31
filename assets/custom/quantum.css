@@ -2,10 +2,6 @@
     color: #1f1f35
 }
 
-.bg-quantum-100 {
-    background-color: #f3f4f6
-}
-
 .hover\:bg-quantum-200:hover {
     background-color: #e5e7eb
 }
@@ -22,7 +18,7 @@
     background-color: #161620
 }
 
-.bg-quantum-600 {
+.bg-quantum-400 {
     background-color: #161624
 }
 
