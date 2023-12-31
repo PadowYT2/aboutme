@@ -2,6 +2,10 @@
     color: #1f1f35
 }
 
+:is(.dark .dark\:text-quantum-700) {
+    color: #1f1f35
+}
+
 .hover\:bg-quantum-200:hover {
     background-color: #e5e7eb
 }
