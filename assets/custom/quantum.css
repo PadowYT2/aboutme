@@ -1,43 +1,31 @@
-.text-blue-700 {
+.text-quantum-700 {
     color: #1d4ed8
 }
 
-.bg-blue-100 {
+.bg-quantum-100 {
     background-color: #dbeafe
 }
 
-.hover\:bg-blue-200:hover {
+.hover\:bg-quantum-200:hover {
     background-color: #bfdbfe
 }
 
-:is(.dark .dark\:text-blue-300) {
+:is(.dark .dark\:text-quantum-300) {
     color: #93c5fd
 }
 
-:is(.dark .dark\:bg-blue-900) {
+:is(.dark .dark\:bg-quantum-900) {
     background-color: #1e3a8a
 }
 
-:is(.dark .dark\:hover\:bg-blue-800:hover) {
+:is(.dark .dark\:hover\:bg-quantum-800:hover) {
     background-color: #1e40af
 }
 
-.bg-blue-600 {
+.bg-quantum-600 {
     background-color: #2563eb
 }
 
 .me-3 {
     margin-inline-end: 0.75rem
-}
-
-.w-2\.5 {
-    width: 0.625rem
-}
-
-.h-2\.5 {
-    height: 0.625rem
-}
-
-.ms-2 {
-    margin-inline-start: 0.5rem
 }
