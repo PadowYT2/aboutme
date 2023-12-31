@@ -6,16 +6,16 @@
     background-color: #e5e7eb
 }
 
-:is(.dark .dark\:text-quantum-300) {
-    color: #d1d5db
-}
-
 :is(.dark .dark\:bg-quantum-900) {
     background-color: #11111d
 }
 
 :is(.dark .dark\:hover\:bg-quantum-800:hover) {
     background-color: #161620
+}
+
+:is(.dark .dark\:hover\:bg-quantum-500:hover) {
+    background-color: #222235
 }
 
 :is(.dark .dark\:bg-quantum-600) {
