@@ -29,3 +29,23 @@
 .me-3 {
     margin-inline-end: 0.75rem
 }
+
+.p-4 {
+    padding: 1rem
+}
+
+.text-red-800 {
+    color: #991b1b
+}
+
+.border-red-300 {
+    border-color: #fca5a5
+}
+
+:is(.dark .dark\:text-red-400) {
+    color: #f87171
+}
+
+:is(.dark .dark\:border-red-800) {
+    border-color: #991b1b
+}
