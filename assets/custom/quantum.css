@@ -2,10 +2,6 @@
     color: #1f1f35
 }
 
-.bg-quantum-100 {
-    background-color: #f3f4f6
-}
-
 .hover\:bg-quantum-200:hover {
     background-color: #e5e7eb
 }
@@ -48,4 +44,8 @@
 
 :is(.dark .dark\:border-red-800) {
     border-color: #991b1b
+}
+
+#quantum-alert > .prose :where(a):not(:where([class~="not-prose"] *)) {
+    text-decoration: none
 }
